@@ -1,16 +1,10 @@
-# contador
+# dio-flutter-git-desafio
+Desafio - Instalação Flutter, configuração do ambiente, criar um projeto e subir para o Git
 
-A new Flutter project.
 
-## Getting Started
+Foi criado um contador de pessoas, onde é colocado um valor de capacidade máxima. Assim que chegar ao valor máximo ele apresenta uma mensagem em vermelho LOTADO e desabilita o botão Entrou. Quando chegar o valor 0 ele desabilitao botão Saiu.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![INICIAL](https://github.com/PatriciaBernardes/dio-flutter-git-desafio/blob/master/inicial.PNG)
+![LOTADO](https://github.com/PatriciaBernardes/dio-flutter-git-desafio/blob/master/lotado.PNG)
+![MINIMO](https://github.com/PatriciaBernardes/dio-flutter-git-desafio/blob/master/minimo.PNG)
