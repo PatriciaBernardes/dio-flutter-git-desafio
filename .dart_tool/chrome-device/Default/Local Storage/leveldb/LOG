@@ -1,0 +1,11 @@
+2023/03/28-17:31:31.593 404 Reusing MANIFEST C:\Users\Patricia\AppData\Local\Temp\flutter_tools.4f42de83\flutter_tools_chrome_device.b1fbbf1b\Default\Local Storage\leveldb/MANIFEST-000001
+2023/03/28-17:31:31.596 404 Recovering log #24
+2023/03/28-17:31:31.597 404 Reusing old log C:\Users\Patricia\AppData\Local\Temp\flutter_tools.4f42de83\flutter_tools_chrome_device.b1fbbf1b\Default\Local Storage\leveldb/000024.log 
+2023/03/28-17:31:31.598 404 Delete type=0 #3
+2023/03/28-17:31:31.598 404 Delete type=0 #4
+2023/03/28-17:33:13.857 28ac Level-0 table #29: started
+2023/03/28-17:33:14.027 28ac Level-0 table #29: 44825 bytes OK
+2023/03/28-17:33:14.061 28ac Delete type=0 #24
+2023/03/28-17:36:08.566 28ac Level-0 table #31: started
+2023/03/28-17:36:08.656 28ac Level-0 table #31: 60645 bytes OK
+2023/03/28-17:36:08.691 28ac Delete type=0 #28

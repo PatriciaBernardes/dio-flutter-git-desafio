@@ -1,0 +1,12 @@
+D:/Dio_projects/contador/build/windows/runner/Debug/data/icudtl.dat
+D:/Dio_projects/contador/build/windows/runner/Debug/flutter_windows.dll
+D:/Dio_projects/contador/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/Dio_projects/contador/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Dio_projects/contador/build/windows/runner/Debug/data/flutter_assets/assets/images/background.jpg
+D:/Dio_projects/contador/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Dio_projects/contador/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Dio_projects/contador/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Dio_projects/contador/build/windows/runner/Debug/data/flutter_assets/NOTICES
+D:/Dio_projects/contador/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Dio_projects/contador/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Dio_projects/contador/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

@@ -1,0 +1,10 @@
+D:/Dio_projects/contador/build/windows/CMakeFiles/INSTALL.dir
+D:/Dio_projects/contador/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/Dio_projects/contador/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/Dio_projects/contador/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/Dio_projects/contador/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/Dio_projects/contador/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/Dio_projects/contador/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/Dio_projects/contador/build/windows/runner/CMakeFiles/contador.dir
+D:/Dio_projects/contador/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/Dio_projects/contador/build/windows/runner/CMakeFiles/ALL_BUILD.dir

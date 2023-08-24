@@ -1,0 +1,10 @@
+^D:\DIO_PROJECTS\CONTADOR\BUILD\WINDOWS\CMAKEFILES\2FD4A3C71E821C18FF33BF97ABE51BF8\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
